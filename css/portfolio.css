@@ -48,6 +48,7 @@
 .searchbtn:hover {
     background-color: #7F99B3;
     color: black;
+	border: 1px solid #000000;
 }
 
 .navbar-expand-lg {
@@ -60,6 +61,7 @@
 	background-color: #B37A76;
 	font-family: montserrat;
 	text-align: center;
+	padding: 10px;
 }
 
 .footerbutton1 {
