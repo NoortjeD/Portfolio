@@ -1,12 +1,21 @@
 @charset "utf-8";
 
+.container {
+	padding: 10px;
+}
+
 .topbanner {
 	margin: 30px;
 }
 
 .topbanner-p {
-	text-align: right;
-	font-family: montserrat;
-	font-size: large;
-	margin-top: 10px;
+    font-family: montserrat;
+    font-size: large;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.navbar {
+	text-align: center;
+	margin:auto;
 }
