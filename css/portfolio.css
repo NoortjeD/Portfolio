@@ -23,8 +23,12 @@
 }
 
 .nav-link {
-	color: black !important;
-	font-family: montserrat
+    color: black !important;
+    font-family: montserrat;
+}
+
+.nav-current {
+    color: #B37A76 !important;
 }
 
 .form-control {
@@ -62,6 +66,11 @@
 	font-family: montserrat;
 	text-align: center;
 	padding: 10px;
+}
+
+.footer-row {
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .footerbutton1 {
