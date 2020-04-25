@@ -8,14 +8,64 @@
 	margin: 30px;
 }
 
+.topbannerbutton {
+	margin-left: 5px;
+}
+
 .topbanner-p {
     font-family: montserrat;
-    font-size: large;
-    margin-top: 10px;
-    text-align: right;
+    font-size: medium;
 }
 
 .navbar {
+    text-align: center;
+    margin: auto;
+}
+
+.nav-link {
+	color: black !important;
+	font-family: montserrat
+}
+
+.form-control {
+	font-family: montserrat
+}
+
+.nav-link:hover {
+    text-decoration: underline;	
+}
+
+.contact-nav {
+	margin-right: 15px;
+}
+
+.searchbtn {
+    color: black;
+    border: 1px solid #000000;
+	font-family: montserrat
+}
+
+.searchbtn:hover {
+    background-color: #7F99B3;
+    color: black;
+}
+
+.navbar-expand-lg {
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
+}
+
+.footer {
+	background-color: #B37A76;
+	font-family: montserrat;
 	text-align: center;
-	margin:auto;
+}
+
+.footerbutton1 {
+	float: right;
+}
+
+.footerbutton2 {
+	float: left;
 }
