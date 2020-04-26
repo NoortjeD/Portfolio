@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 .container {
-	padding: 10px;
+	padding: 30px;
 }
 
 .topbanner {
@@ -65,18 +65,23 @@
 
 .index-banner {
 	background-color: #7F99B3;
-	margin-right: 150px;
-	margin-left: 150px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 .banner-img {
-	float: right;
-  	width: 35%;
+    float: right;
+    width: 35%;
+    margin: auto 0px;
 }
 
 .banner-title1 {
 	margin-top: 120px;
 	font-family: montserrat;
+}
+
+.banner-title2 {
+    font-family: montserrat;
 }
 
 .text {
