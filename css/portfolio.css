@@ -65,11 +65,22 @@
 
 .index-banner {
 	background-color: #7F99B3;
+	margin-right: 150px;
+	margin-left: 150px;
 }
 
 .banner-img {
 	float: right;
   	width: 35%;
+}
+
+.banner-title1 {
+	margin-top: 120px;
+	font-family: montserrat;
+}
+
+.text {
+	font-family: montserrat;
 }
 
 .footer {
