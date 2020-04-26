@@ -71,7 +71,7 @@
     background-size: 1100px auto;
     height: 450px;
     background-color: #7F99B3;
-    background-image: url(../images/bannerbackground-01-01-01-01.png);	
+    background-image: url(../images/bannerbackground-01-01-01-01-01.png);
 }
 
 .banner-title1 {
@@ -107,22 +107,14 @@
 	padding-right: 20px;
 }
 
-.music1 {
+.music {
 	margin-left: 20px;
 	margin-right: 20px;
   	display: block;
-  	margin-left: 260px;
+  	margin-left: auto;
   	margin-right: auto;
 }
 
-.music2 {
-	margin-right: 20px;
-	margin-left: 20px;
-  	display: block;
-  	margin-left: auto;
-  	margin-right: 500px;
-}
- 
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
