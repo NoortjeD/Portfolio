@@ -38,7 +38,7 @@
 }
 
 .nav-link:hover {
-    text-decoration: underline;	
+    color: #8D8D8D !important;
 }
 
 .contact-nav {
@@ -67,7 +67,6 @@
     background-size: 1100px auto;
     height: 450px;
     background-image: url(../images/bannerbackground-01-01.png);
-    background-position: center 0%;
 }
 
 .banner-title1 {
