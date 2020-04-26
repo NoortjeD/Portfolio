@@ -63,6 +63,15 @@
     background-color: white;
 }
 
+.index-banner {
+	background-color: #7F99B3;
+}
+
+.banner-img {
+	float: right;
+  	width: 35%;
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
