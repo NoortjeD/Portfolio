@@ -4,6 +4,10 @@
 	padding: 30px;
 }
 
+.text {
+	font-family: montserrat;
+}
+
 .topbanner {
 	margin: 30px;
 }
@@ -81,10 +85,6 @@
 	text-align: center;
 }
 
-.text {
-	font-family: montserrat;
-}
-
 .h1-aboutme {
 	margin-left: 10px
 }
@@ -93,6 +93,28 @@
 	margin-right: 5px;
 }
 
+.music {
+	background-color: #FFC6C2;
+}		
+		
+.h3-music {
+	text-align: center;
+    font-family: montserrat;
+}
+
+.p-music {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.music1 {
+	float: right;
+}
+
+.music2 {
+	float: left;
+}
+ 
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
