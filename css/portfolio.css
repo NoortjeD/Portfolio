@@ -116,6 +116,17 @@
 	margin-bottom: 20px;
 }
 
+.carousel-1 {
+	width: 40%;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.h3-carousel {
+	text-align: center;
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
