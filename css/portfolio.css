@@ -29,11 +29,13 @@
 }
 
 .nav-current {
-    color: #B37A76 !important;
+    color: #000000 !important;
+    font-weight: bold;	
 }
 
 .form-control {
-	font-family: montserrat
+	font-family: montserrat;
+	margin-left: 10px;
 }
 
 .nav-link:hover {
