@@ -64,25 +64,21 @@
 }
 
 .index-banner1 {
-    background-position: 54% 0%;
+    background-position: 100px 0%;
     background-size: 1100px auto;
     height: 450px;
     background-image: url(../images/bannerbackground-01-01.png);
 }
 
-.banner-img {
-    float: right;
-    width: 35%;
-    margin: auto 0px;
-}
-
 .banner-title1 {
 	margin-top: 120px;
 	font-family: montserrat;
+	text-align: center;
 }
 
 .banner-title2 {
     font-family: montserrat;
+	text-align: center;
 }
 
 .text {
