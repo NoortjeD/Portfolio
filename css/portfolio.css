@@ -63,10 +63,11 @@
     background-color: white;
 }
 
-.index-banner {
-	background-color: #7F99B3;
-	margin-right: auto;
-	margin-left: auto;
+.index-banner1 {
+    background-position: 54% 0%;
+    background-size: 1100px auto;
+    height: 450px;
+    background-image: url(../images/bannerbackground-01-01.png);
 }
 
 .banner-img {
