@@ -96,7 +96,7 @@
 }
 
 .music {
-	background-color: #FBFFD7;
+	background-color: #7F99B3;
 }		
 		
 .h3-music {
@@ -107,6 +107,8 @@
 .p-music {
 	padding-left: 20px;
 	padding-right: 20px;
+	margin-left: 30px;
+	margin-right: 30px;
 }
 
 .music1 {
