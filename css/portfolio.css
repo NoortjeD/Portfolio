@@ -66,8 +66,8 @@
 .index-banner1 {
     background-size: 1100px auto;
     height: 450px;
-    background-image: url(../images/bannerbackground-01-01.png);
-	background-color: #7F99B3
+    background-color: #7F99B3;
+    background-image: url(../images/bannerbackground-01-01-01.png);
 }
 
 .banner-title1 {
