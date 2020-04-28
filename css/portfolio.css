@@ -142,6 +142,10 @@
 	
 }
 
+.progress-bar {
+    background-color: #FFC6C2 !important;
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
