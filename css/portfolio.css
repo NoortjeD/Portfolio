@@ -198,7 +198,7 @@
 }
 
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 900px) {
   	.index-banner1 {
     	height: 450px;
    	 	background-color: #7F99B3;
@@ -211,4 +211,7 @@
 		width: 100%;
 	}
 	
+	.iyc-img {
+		width: 100%;
+	}
 }
