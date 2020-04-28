@@ -146,6 +146,10 @@
     background-color: #FFC6C2 !important;
 }
 
+.p-date {
+    font-style: italic;	
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
