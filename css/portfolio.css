@@ -157,6 +157,19 @@
 	padding: 10px;
 }
 
+.footer-sm {
+    font-weight: bold;	
+	text-align: center;
+}
+
+.foot-link {
+	color: black;
+}
+
+.foot-link:hover {
+    color: black;
+}
+
 .footer-row {
 	margin-left: 10px;
 	margin-right: 10px;
