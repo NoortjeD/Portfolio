@@ -160,6 +160,10 @@
     text-decoration: underline;	
 }
 
+.cd-img {
+	margin: 10px;
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
@@ -206,5 +210,5 @@
 	.music1 {
 		width: 100%;
 	}
-
+	
 }
