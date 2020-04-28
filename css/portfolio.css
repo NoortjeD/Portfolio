@@ -150,6 +150,16 @@
     font-style: italic;	
 }
 
+.email-link {
+    color: #7F99B3;
+    font-weight: bold;	
+}
+
+.email-link:hover {
+    color: #7F99B3;
+    text-decoration: underline;	
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
