@@ -153,8 +153,8 @@
 @media only screen and (max-width: 600px) {
   .index-banner1 {
     height: 450px;
-	background-position: -600% 0%;
     background-color: #7F99B3;
     background-image: url(../images/bannerbackground-01-01-01-01-01.png);
+    background-position: -173% 0%;
 	}
 }
