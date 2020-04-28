@@ -151,7 +151,9 @@
 
 
 @media only screen and (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
+  .index-banner1 {
+    height: 450px;
+    background-color: #7F99B3;
+    background-image: url(../images/bannerbackground-01-01-01-01-01.png);
+	}
 }
