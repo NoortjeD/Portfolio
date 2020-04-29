@@ -204,7 +204,7 @@
    	 	background-color: #7F99B3;
    		background-image: url(../images/bannerbackground-01-01-01-01-01.png);
    		background-size: 900px auto;
-    	background-position: 51% 0%;
+    	background-position: 51% 0% !important;
 	}
 	
 	.music1 {
@@ -213,5 +213,16 @@
 	
 	.iyc-img {
 		width: 100%;
+	}
+}
+
+
+@media only screen and (max-width: 1100px) {
+  	.index-banner1 {
+    	height: 450px;
+   	 	background-color: #7F99B3;
+   		background-image: url(../images/bannerbackground-01-01-01-01-01.png);
+   		background-size: 900px auto;
+    	background-position: 70% 0%;
 	}
 }
