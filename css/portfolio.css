@@ -235,6 +235,10 @@
  		margin-left: auto !important;
  		margin-right: auto !important;
 	}
+	
+	.navbar {
+		style: float: left;
+	}
 }
 
 
