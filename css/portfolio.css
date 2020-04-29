@@ -30,6 +30,8 @@
 .nav-link {
     color: black !important;
     font-family: montserrat;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 .nav-current {
