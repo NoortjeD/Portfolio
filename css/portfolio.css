@@ -96,7 +96,7 @@
 }
 
 .music {
-	background-color: #7F99B3;
+	background-color: #CAD5E0;
 }		
 		
 .h3-music {
@@ -116,6 +116,7 @@
   	margin-left: auto;
   	margin-right: auto;
 	margin-bottom: 20px;
+	margin-top: 70px;
 }
 
 .carousel-1 {
@@ -169,6 +170,11 @@
 	font-weight: bold;
 }
 
+.carousel2 {
+	width: 300px;
+	float: right;
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
@@ -214,10 +220,18 @@
 	
 	.music1 {
 		width: 100%;
+		margin: 0px !important;
 	}
 	
 	.iyc-img {
 		width: 100%;
+	}
+	
+	.carousel2 {
+		float: none !important;
+		display: block !important;
+ 		margin-left: auto !important;
+ 		margin-right: auto !important;
 	}
 }
 
