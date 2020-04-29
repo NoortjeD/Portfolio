@@ -164,6 +164,11 @@
 	margin: 10px;
 }
 
+.arrow {
+	color: #7F99B3;
+	font-weight: bold;
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
