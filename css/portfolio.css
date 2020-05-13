@@ -177,6 +177,11 @@
 	float: right;
 }
 
+.btn {
+	margin: 10px;
+	color: black;
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
