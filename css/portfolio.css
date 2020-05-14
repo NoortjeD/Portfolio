@@ -182,6 +182,10 @@
 	color: black;
 }
 
+.fb-post {
+	width: 70%;
+}
+
 .footer {
 	background-color: #B37A76;
 	font-family: montserrat;
@@ -254,5 +258,9 @@
    		background-image: url(../images/bannerbackground-01-01-01-01-01.png);
    		background-size: 900px auto;
     	background-position: 70% 0%;
+	}
+	
+	.fb-post {
+		width: 100% !important;
 	}
 }
