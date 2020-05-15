@@ -63,6 +63,7 @@
 	border: 1px solid #000000;
 }
 
+
 .navbar-expand-lg {
     border-width: 1px;
     border-style: solid;
@@ -190,6 +191,10 @@
 
 .supervision-screens {
 	margin-bottom: 10px;
+}
+
+.h6color {
+	color: #7F99B3; 
 }
 
 .footer {
