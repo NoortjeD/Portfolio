@@ -273,7 +273,11 @@
 
 
 @media only screen and (max-width: 1100px) {
-  	.index-banner1 {
+  	.container {
+	padding: 5px;
+}
+	
+	.index-banner1 {
     	height: 450px;
    	 	background-color: #7F99B3;
    		background-image: url(../images/bannerbackground-01-01-01-01-01.png);
@@ -286,6 +290,6 @@
 	}
 	
 	.instagram-media {
-	width: 100px !important;
-}
+		width: 10% !important;
+	}
 }
