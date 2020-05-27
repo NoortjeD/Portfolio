@@ -190,6 +190,11 @@
 	padding: 10px;
 	margin: auto;
 	background-color: #FFC6C2;
+	width: 100%;
+}
+
+.instagram-media {
+	width: 50% !important;
 }
 
 .supervision-screens {
