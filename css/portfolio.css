@@ -269,9 +269,6 @@
  		margin-right: auto !important;
 	}
 	
-	.navbar {
-		style: float: left;
-	}
 }
 
 
@@ -287,4 +284,8 @@
 	.fb-post {
 		width: 100% !important;
 	}
+	
+	.instagram-media {
+	width: 30% !important;
+}
 }
