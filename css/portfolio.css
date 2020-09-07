@@ -9,7 +9,12 @@
 }
 
 .topbanner {
-	margin: 30px;
+	padding: 30px;
+}
+
+.topbanner-color {
+	background-color: lightgray;
+	
 }
 
 .topbannerbutton {
@@ -20,6 +25,16 @@
     font-family: montserrat;
     font-size: medium;
 	text-align: right;
+}
+
+.h1-top {
+    text-align: center;
+    font-family: montserrat;
+    text-decoration: none;
+    font-variant: small-caps;
+    text-shadow: 0 x;
+    letter-spacing: 15px;
+    font-size: 40px;
 }
 
 .navbar {
@@ -171,7 +186,7 @@
 }
 
 .carousel2 {
-	width: 300px;
+	width: 100%;
 	float: right;
 }
 
