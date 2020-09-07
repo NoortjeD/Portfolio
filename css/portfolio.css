@@ -9,7 +9,7 @@
 }
 
 .topbanner {
-	padding: 30px;
+	padding: 20px;
 }
 
 .topbanner-color {
@@ -32,9 +32,8 @@
     font-family: montserrat;
     text-decoration: none;
     font-variant: small-caps;
-    text-shadow: 0 x;
     letter-spacing: 15px;
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .navbar {
