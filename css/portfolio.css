@@ -100,7 +100,14 @@
 
 .music {
 	background-color: #CAD5E0;
-}		
+}
+
+.music1 {
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 80%;
+}
 		
 .h3-music {
 	text-align: center;
@@ -114,13 +121,6 @@
 	margin-right: 30px;
 }
 
-.music1 {
-  	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-	margin-bottom: 20px;
-	margin-top: 70px;
-}
 
 .carousel-1 {
 	width: 100%;
@@ -292,4 +292,13 @@
 	.instagram-media {
 		width: 10% !important;
 	}
+	
+	.music1 {
+		width: 90% !important;
+	}
+	
+	.music {
+		padding: 30px;
+	}
+
 }
