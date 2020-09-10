@@ -41,8 +41,14 @@ html,body
     font-family: montserrat;
     font-variant: small-caps;
     letter-spacing: 15px;
-    font-size: 200%;
-	margin: 10px;
+    font-size: 130%;
+    margin: 10px;
+    color: #000000;	
+}
+
+.h1-top:hover {
+    color: black;
+    text-decoration: none;	
 }
 
 .navbar {
