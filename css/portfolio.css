@@ -17,6 +17,7 @@ html,body
 	font-family: montserrat;
 }
 
+
 .topbanner {
 	padding: 15px;
 }
@@ -305,6 +306,10 @@ html,body
    		background-image: url(../images/bannerbackground-01-01-01-01-01.png);
    		background-size: 900px auto;
     	background-position: 70% 0%;
+	}
+	
+	.index-text {
+		padding: 10px;
 	}
 	
 	.fb-post {
