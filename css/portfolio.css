@@ -143,7 +143,7 @@ html,body
  	margin-right: auto;
  	width: 80%;
 }
-		
+	
 .h3-music {
 	text-align: center;
     font-family: montserrat;
@@ -179,7 +179,7 @@ html,body
 }
 
 .progress-bar {
-    background-color: #A8D4FF !important;
+    background-color: #CAD5E0 !important;
 }
 
 .p-date {
@@ -224,7 +224,7 @@ html,body
 .insta-post {
 	padding: 10px;
 	margin: auto;
-	background-color: #A8D4FF;
+	background-color: #CAD5E0;
 	width: 100%;
 }
 
@@ -241,7 +241,7 @@ html,body
 }
 
 .credits {
-	background-color: #7F99B3;
+	background-color: #CAD5E0;
 	padding: 5px;
 }
 
