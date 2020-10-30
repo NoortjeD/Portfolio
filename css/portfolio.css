@@ -117,6 +117,12 @@ html,body
 	text-align: center;
 }
 
+.WE-text {
+    font-weight: bolder;
+    font-size: xx-large;
+    color: #B37A76;
+}
+
 .h1-aboutme {
 	margin-left: 10px
 }
@@ -173,7 +179,7 @@ html,body
 }
 
 .progress-bar {
-    background-color: #FFC6C2 !important;
+    background-color: #A8D4FF !important;
 }
 
 .p-date {
@@ -218,7 +224,7 @@ html,body
 .insta-post {
 	padding: 10px;
 	margin: auto;
-	background-color: #FFC6C2;
+	background-color: #A8D4FF;
 	width: 100%;
 }
 
@@ -240,7 +246,7 @@ html,body
 }
 
 .footer {
-	background-color: #ffc6c2;
+	background-color: #7F99B3;
 	font-family: montserrat;
 	text-align: center;
 	padding: 10px;
