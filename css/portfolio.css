@@ -100,10 +100,12 @@ html,body
 }
 
 .index-banner1 {
-    background-size: 1100px auto;
+    background-size: 450px auto;
     height: 450px;
     background-color: #7F99B3;
-    background-image: url(../images/bannerbackground-01-01-01-01-01.png);
+    background-image: url("../images/BannerMeTransparant.png");
+    background-repeat: no-repeat;
+    background-position: 16% 0%;
 }
 
 .banner-title1 {
@@ -282,11 +284,10 @@ html,body
 
 @media only screen and (max-width: 900px) {
   	.index-banner1 {
-    	height: 450px;
-   	 	background-color: #7F99B3;
-   		background-image: url(../images/bannerbackground-01-01-01-01-01.png);
-   		background-size: 900px auto;
-    	background-position: 51% 0% !important;
+    height: 450px;
+    background-color: #7F99B3;
+    background-image: url("../images/BannerMeTransparant.png");
+    background-size: 300px auto;
 	}
 	
 	.music1 {
@@ -314,11 +315,11 @@ html,body
 }
 	
 	.index-banner1 {
-    	height: 450px;
-   	 	background-color: #7F99B3;
-   		background-image: url(../images/bannerbackground-01-01-01-01-01.png);
-   		background-size: 900px auto;
-    	background-position: 70% 0%;
+    height: 450px;
+    background-color: #7F99B3;
+    background-image: url("../images/BannerMeTransparant.png");
+    background-size: 400px auto;
+    background-position: 10% 100%;
 	}
 	
 	.index-text {
