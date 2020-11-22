@@ -318,7 +318,7 @@ html,body
 
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
 	
   	.index-banner1 {
     height: 450px;
