@@ -245,7 +245,8 @@ html,body
 
 .credits {
 	background-color: #CAD5E0;
-	padding: 5px;
+	padding: 4px;
+	margin: 0px;
 }
 
 .footer {
@@ -342,6 +343,16 @@ html,body
 		display: block !important;
  		margin-left: auto !important;
  		margin-right: auto !important;
+	}
+	
+	.credits {
+	background-color: #CAD5E0;
+	padding: 4px;
+	margin: 15px;
+}
+	
+	.h3 {
+		margin: 3px;
 	}
 	
 }
