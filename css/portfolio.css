@@ -17,13 +17,48 @@ html,body
 	font-family: montserrat;
 }
 
+.center-text {
+ 	 position: absolute;
+ 	 top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+	color: white
+}
+
+.center-text2 {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-style: italic;	
+}
+
+.center-text3 {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-style: italic;	
+}
+
+.imghov:hover {
+    opacity: 0.4;
+    transition: opacity 0.2s ease-in-out;
+}
+
+.texthov:hover {
+	color: black;!
+	transition: color 0.2s ease-in-out;
+}
 
 .topbanner {
-	padding: 15px;
+
 }
 
 .topbanner-color {
-	background-color: lightgray;
+	background-color: white;
 }
 
 .topbannerbutton {
@@ -37,11 +72,13 @@ html,body
 }
 
 .h1-top {
+    top: 50%;
+    left: 50%;
     text-align: center;
     font-family: montserrat;
     font-variant: small-caps;
-    letter-spacing: 15px;
-    font-size: 130%;
+    letter-spacing: 10px;
+    font-size: 110%;
     margin: 10px;
     color: #000000;	
 }
@@ -54,6 +91,13 @@ html,body
 .navbar {
     text-align: center;
     margin: auto;
+}
+
+.nav-center {
+    position: relative;
+    width: 40%;
+    margin: 0 auto !important;
+	
 }
 
 .nav-link {
@@ -95,7 +139,7 @@ html,body
 
 .navbar-expand-lg {
     border-width: 1px;
-    border-style: solid;
+    border-style: ;
     background-color: white;
 }
 
