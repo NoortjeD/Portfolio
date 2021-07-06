@@ -48,6 +48,14 @@ html,body
     transition: opacity 0.2s ease-in-out;
 }
 
+.imghov1:hover {
+    opacity: 0.4;
+    transition: opacity 0.2s ease-in-out;
+	visibility: visible;
+ 	opacity: 1;
+	
+}
+
 .texthov:hover {
 	color: black;!
 	transition: color 0.2s ease-in-out;
