@@ -308,7 +308,7 @@ html,body
 }
 
 .footer {
-	background-color: #7F99B3;
+	background-color: #000000;
 	font-family: montserrat;
 	text-align: center;
 	padding: 10px;
@@ -317,14 +317,15 @@ html,body
 .footer-sm {
     font-weight: bold;	
 	text-align: center;
+	color: white
 }
 
 .foot-link {
-	color: black;
+	color: #FFFFFF;
 }
 
 .foot-link:hover {
-    color: black;
+    color: #FFFFFF;
 }
 
 .footer-row {
